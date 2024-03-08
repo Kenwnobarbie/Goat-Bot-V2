@@ -12,13 +12,19 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "GoatBot",
+	"nickNameBot": "𝓖𝓔𝓝𝓘𝓔 ೄྀ࿐ ˊˎ-",
 	"prefix": "-",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [],
+	"adminBot": ["100091546602369",
+    "61555625902188",
+    "100008485152397",
+    "100094201635431",
+    "100086348419626",
+    "100069037331630",
+    "100093555154741"],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
@@ -40,15 +46,15 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
 		"gmailAccount": {
-			"email": "",
-			"clientId": "",
-			"clientSecret": "",
-			"refreshToken": "",
+			"email": "chihyun040@gmail.com",
+			"clientId": "664832802757-17kcbhol0t6gkbltjromeqleoe0movli.apps.googleusercontent.com",
+			"clientSecret": "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",
+			"refreshToken": "1//04WeQ2Zt0bDMNCgYIARAAGAQSNwF-L9IrD68tM4er7U1bY8XleIBUBGzA4UJ8MxaZY5EC4MuT5S43RkNp8JQZCfrryDu643XJ0wo",
 			"apiKey": ""
 		},
 		"gRecaptcha": {
-			"siteKey": "",
-			"secretKey": ""
+			"siteKey": "6Lfn8DspAAAAAMmYETOVX9XhG9Gs1P3zdH_nx",
+			"secretKey": "6Lfn8DspAAAAAOKI7kZpQ7qYTSSHEDSAIsQPYYLN"
 		}
 	},
 	"dashBoard": {
